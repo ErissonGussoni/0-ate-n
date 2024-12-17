@@ -1,0 +1,7 @@
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\bin\Debug\1-ate-n.exe.config
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\bin\Debug\1-ate-n.exe
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\bin\Debug\1-ate-n.pdb
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\obj\Debug\1-ate-n.csproj.AssemblyReference.cache
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\obj\Debug\1-ate-n.csproj.CoreCompileInputs.cache
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\obj\Debug\1-ate-n.exe
+C:\Users\eriss\source\repos\1-ate-n\1-ate-n\obj\Debug\1-ate-n.pdb
